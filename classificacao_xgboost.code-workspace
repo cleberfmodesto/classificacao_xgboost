@@ -1,0 +1,21 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+        "workbench.colorCustomizations": {
+            "titleBar.activeBackground": "#1F5A47",
+            "titleBar.activeForeground": "#F2FFF8",
+            "titleBar.inactiveBackground": "#173D32",
+            "titleBar.inactiveForeground": "#D3E7DD",
+            "statusBar.background": "#28775D",
+            "statusBar.foreground": "#FFFFFF",
+            "activityBar.background": "#1F5A47",
+            "activityBar.foreground": "#F2FFF8",
+            "activityBar.activeBorder": "#6FD3A7"
+        }
+    }
+}
